@@ -76,5 +76,3 @@ To develop a real-world video-sharing platform that mimics core YouTube features
 - Mobile, Tablet, and Desktop Compatibility  
 
 ---
-
-## 📂 Folder Structure
