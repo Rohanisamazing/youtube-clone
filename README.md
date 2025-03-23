@@ -122,3 +122,16 @@ To develop a real-world video-sharing platform that mimics core YouTube features
 
 ---
 
+## 🏁 Usage
+
+### Register or Log In to create a channel.
+
+- Upload videos and manage content.
+
+- Search and filter videos.
+
+- Comment on videos.
+
+- View channels and manage your own videos.
+---
+
