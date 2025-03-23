@@ -72,7 +72,53 @@ To develop a real-world video-sharing platform that mimics core YouTube features
 
 ---
 
+
 ### ✅ Responsive Design
 - Mobile, Tablet, and Desktop Compatibility  
 
 ---
+
+## 🌐 Setup and Installation
+
+### 1. Clone the Repository
+
+- git clone https://github.com/your-username/youtube-clone.git
+
+
+## 2. Backend Setup:--
+
+- 2.1 Navigate to the backend folder:
+
+- cd backend
+
+## 2.2 Install dependencies:
+
+- npm install
+
+
+## 3. Start the backend server:
+
+- npm run start
+
+---
+
+
+## 3. Frontend Setup:--
+
+
+- 1. Navigate to the frontend folder:
+
+- cd youtube-frontend
+
+
+## 2. Install dependencies:
+
+- npm install
+
+
+## 3. Start the frontend server:
+
+- npm start
+
+---
+
